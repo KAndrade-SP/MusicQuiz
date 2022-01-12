@@ -1,0 +1,11 @@
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\bin\Debug\JogoQuiz1.exe.config
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\bin\Debug\JogoQuiz1.exe
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\bin\Debug\JogoQuiz1.pdb
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.csprojResolveAssemblyReference.cache
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.MainForm.resources
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.csproj.GenerateResource.Cache
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.exe
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.pdb
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.FormCadastro.resources
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.FormQuiz.resources
+C:\Users\marcosroberto\Documents\SharpDevelop Projects\JogoQuiz1\JogoQuiz1\obj\Debug\JogoQuiz1.FormAjuda.resources
